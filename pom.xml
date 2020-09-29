@@ -60,7 +60,7 @@
         <url>https://github.com/jcustenborder/kafka-connect-transform-hl7/issues</url>
     </issueManagement>
     <properties>
-        <fhir.version>3.0.0</fhir.version>
+        <fhir.version>5.1.0</fhir.version>
     </properties>
     <dependencies>
         <dependency>
